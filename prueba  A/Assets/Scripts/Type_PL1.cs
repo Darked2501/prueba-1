@@ -5,14 +5,10 @@ using UnityEngine;
 public class Type_PL1 : MonoBehaviour
 {
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
         
+        Player_BP warrior = new Player_BP(1, 2, "lizard");
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-}
+} //class

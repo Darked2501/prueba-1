@@ -14,6 +14,6 @@ this.health = health;
 this.power =power;
 this.name = name;
 
-Debug.Log(health + power + name);
+Debug.Log(health+ " " + power +" "+ name);
   }  
 }

@@ -8,7 +8,7 @@ public class Type_PL1 : MonoBehaviour
     private void Start()
     {
         
-        Player_BP warrior = new Player_BP(1, 2, "lizard");
+        Player_BP warrior = new Player_BP( 1, 2, "lizard" );
     }
 
 } //class

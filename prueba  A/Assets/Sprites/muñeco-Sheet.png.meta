@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 9c1cb18eb4b77344080a3c5c0a1570ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446b899ce84e4f94cac26189062dd2a1
+      internalID: -569086234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 108
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd47bb7b442fc5489e01979ca4e8052
+      internalID: 1354012398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 108
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf04039ed98333942bf600fd5ae66dc5
+      internalID: 1585856333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d597537425b60ff42b9bc79375cf7fc0
+      internalID: -895039890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 81
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a197047b032e3624d95d7ee997d33fb0
+      internalID: -397590590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 81
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7cba508a6941f4784754ba62032d78
+      internalID: -280813636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 81
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794aa91ca9b83984291975d02a9d236c
+      internalID: 6702337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 81
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c17a8a6587f9a44db596f17f1de779c
+      internalID: -581375356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 81
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4048c0c665dcea04dbd595a25fac4c31
+      internalID: 1913629678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 81
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3337e0a7360315b4096a64661e5f8ede
+      internalID: -703640827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_10"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 81
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a06a4c2d383614c9a3d0448f370fb6
+      internalID: -312998731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_11"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 81
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dc16280291af14f8951bceb2db3876
+      internalID: 136243731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73d355807c3c7b48bc0b9dcb6dadd07
+      internalID: -1275782577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_13"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 54
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb3d40afcc546e44b482d641fbae1c6
+      internalID: 1352006648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_14"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 54
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e02459981f4c144bb9e88b83b37645d
+      internalID: 601183103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_15"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 54
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39603fd4f7b26be44b471729f810e261
+      internalID: -1556898013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_16"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 54
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acc9b0e9d61919479c3ef154fe6da95
+      internalID: -2086744201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_17"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 54
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff866cfda4c2e9246a989043def17a35
+      internalID: 59283338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686eb24e62ebba842a362b99687a2f02
+      internalID: -2089923868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_19"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a08dd66a45ad9f4e93a0d1155d43e80
+      internalID: -87248964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_20"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e8f895a1f88594ab61f34a9dc333a9
+      internalID: 1007892257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_21"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef5bb7aa3d726f4d977e3e9985cec0d
+      internalID: -1569351377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_22"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f6137bd305eb144bd4110fe5f9f4dc
+      internalID: -1292264994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_23"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afada0e3ae5bcca43b3a73e4c684b33d
+      internalID: -442269277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_24"
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2264b59d4f2cd4dbc63d6710b4ee7c
+      internalID: 92085707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_25"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422749fbfe9ecfd4a900885b99bb387d
+      internalID: -657780296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_26"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6088af3f386740944b3e7eff5c846005
+      internalID: 1601570812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_27"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a415210627bc72e409defc04f539ade6
+      internalID: 804420287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_28"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777280a90cebbed4ab8323df940fe6e9
+      internalID: -1758516040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_29"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de53ba64eee82e45962e036798012dd
+      internalID: -1117862896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_30"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74033f363f28e4498784879d9be8bb2
+      internalID: 857287522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_31"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994b8f2bfd0543c4a8cbd90f854341d2
+      internalID: -1448388832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_32"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68803a2a1a4a14a45acce778c7e7646a
+      internalID: 1518177458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_33"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5155087296ff844bd5cacaf138ccc2
+      internalID: -677361340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_34"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8fb73dc7ee69d428ce12c7b054e021
+      internalID: -7558747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_35"
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b488469c4ce914947add0970d637d73e
+      internalID: 852216165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_36"
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bed2054656fdae42b4553c5160d4d2d
+      internalID: -1494477235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_37"
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bf28eec73ca1b4f861d32b2fd8700b
+      internalID: -1908950659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_38"
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edd8601305d8124b9f037edfbeaa6e1
+      internalID: -1678561581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_39"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ebe94ec207cfa4abe7bb26c3010128
+      internalID: -882886004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_40"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc6c4ea401f5f34a9f9cd89c9055a5c
+      internalID: 607765756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_41"
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1d667e78d8c29498f5b957e61bb17b
+      internalID: 1326711200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_42"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af665565d9c69e43a520533173e8cc0
+      internalID: -1029551488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_43"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 27
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a055450bd5f4604e9e20e9cc2c7479e
+      internalID: 1006906572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_44"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5b55d5be7493741802c60a6264bd7d
+      internalID: 260057156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_45"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b572464ed19e459c0008caa9dc6ca
+      internalID: -926857052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mu\xF1eco-Sheet_46"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b43c7d5cab6e240ad13ea60e431cd4
+      internalID: 71059660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "mu\xF1eco-Sheet_6": 6702337
+      "mu\xF1eco-Sheet_16": -2086744201
+      "mu\xF1eco-Sheet_21": -1569351377
+      "mu\xF1eco-Sheet_8": 1913629678
+      "mu\xF1eco-Sheet_40": 607765756
+      "mu\xF1eco-Sheet_10": -312998731
+      "mu\xF1eco-Sheet_15": -1556898013
+      "mu\xF1eco-Sheet_18": -2089923868
+      "mu\xF1eco-Sheet_46": 71059660
+      "mu\xF1eco-Sheet_26": 1601570812
+      "mu\xF1eco-Sheet_14": 601183103
+      "mu\xF1eco-Sheet_42": -1029551488
+      "mu\xF1eco-Sheet_31": -1448388832
+      "mu\xF1eco-Sheet_4": -397590590
+      "mu\xF1eco-Sheet_17": 59283338
+      "mu\xF1eco-Sheet_41": 1326711200
+      "mu\xF1eco-Sheet_23": -442269277
+      "mu\xF1eco-Sheet_25": -657780296
+      "mu\xF1eco-Sheet_22": -1292264994
+      "mu\xF1eco-Sheet_33": -677361340
+      "mu\xF1eco-Sheet_34": -7558747
+      "mu\xF1eco-Sheet_27": 804420287
+      "mu\xF1eco-Sheet_3": -895039890
+      "mu\xF1eco-Sheet_5": -280813636
+      "mu\xF1eco-Sheet_12": -1275782577
+      "mu\xF1eco-Sheet_43": 1006906572
+      "mu\xF1eco-Sheet_37": -1908950659
+      "mu\xF1eco-Sheet_7": -581375356
+      "mu\xF1eco-Sheet_44": 260057156
+      "mu\xF1eco-Sheet_32": 1518177458
+      "mu\xF1eco-Sheet_0": -569086234
+      "mu\xF1eco-Sheet_11": 136243731
+      "mu\xF1eco-Sheet_36": -1494477235
+      "mu\xF1eco-Sheet_1": 1354012398
+      "mu\xF1eco-Sheet_35": 852216165
+      "mu\xF1eco-Sheet_2": 1585856333
+      "mu\xF1eco-Sheet_45": -926857052
+      "mu\xF1eco-Sheet_24": 92085707
+      "mu\xF1eco-Sheet_28": -1758516040
+      "mu\xF1eco-Sheet_20": 1007892257
+      "mu\xF1eco-Sheet_30": 857287522
+      "mu\xF1eco-Sheet_29": -1117862896
+      "mu\xF1eco-Sheet_9": -703640827
+      "mu\xF1eco-Sheet_38": -1678561581
+      "mu\xF1eco-Sheet_39": -882886004
+      "mu\xF1eco-Sheet_13": 1352006648
+      "mu\xF1eco-Sheet_19": -87248964
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
